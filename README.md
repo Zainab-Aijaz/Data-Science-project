@@ -38,18 +38,32 @@ Passengers from higher classes showed better survival chances
 Proper data preprocessing significantly improves model performance
 
 
+
 In task 2: Stovk Price Prediction
 🔍 What I accomplished in this task:
+
 Analyzed historical stock data containing Open, High, Low, Close, and Trading Volume
+
 Performed Exploratory Data Analysis (EDA) to understand price trends, distributions, correlations, and variations over time
+
 Handled missing values and ensured proper datetime formatting for time-series understanding
+
 Selected relevant features and prepared the dataset for modeling
+
 Split the data into training and testing sets to ensure fair model evaluation
+
 Trained a Linear Regression model to predict stock closing prices
+
 Evaluated model performance using regression-based metrics
+
 📊 Model Evaluation & Prediction Accuracy:
+
 The model’s prediction accuracy was evaluated using:
+
 Mean Absolute Error (MAE) to measure average prediction error
+
 Mean Squared Error (MSE) to penalize larger prediction errors
+
 R² Score to assess how well the model explains variations in stock prices
+
 Additionally, an Actual vs Predicted price visualization was used to visually confirm the model’s performance.
