@@ -1,3 +1,2 @@
-# demo-project
-hi this is my first repositories
+# Data Science Project
 Author - Zainab
