@@ -1,23 +1,40 @@
 # Data Science Project
 In Task 1 : Titanic Survival Prediction
+
 What I did in this task:
+
 Loaded and explored the Titanic dataset (891 rows, 12 columns)
+
 Performed data cleaning & wrangling:
+
 Handled missing values using mean and mode imputation
+
 Dropped irrelevant columns with excessive null values
+
 Conducted exploratory data analysis (EDA) using Matplotlib & Seaborn to understand:
 Survival distribution
+
 Gender-wise survival rate
+
 Class-wise survival patterns
+
 Age and fare distributions
+
 Applied categorical encoding to convert non-numerical features into machine-readable form
+
 Separated features and target variables
+
 Split the data into training and testing sets for fair evaluation
+
 Trained a Logistic Regression model
+
 Evaluated the model using accuracy score to measure performance
+
 📌 Key Insights:
 Female passengers had a higher survival rate compared to males
+
 Passengers from higher classes showed better survival chances
+
 Proper data preprocessing significantly improves model performance
 
 
